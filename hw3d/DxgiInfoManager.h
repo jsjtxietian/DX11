@@ -2,8 +2,8 @@
 #include "ChiliWin.h"
 #include <wrl.h>
 #include <vector>
-#include <string>
 #include <dxgidebug.h>
+#include <string>
 
 class DxgiInfoManager
 {

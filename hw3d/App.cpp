@@ -12,8 +12,8 @@
 #include "imgui/imgui.h"
 #include <assimp/Importer.hpp>
 #include <assimp/scene.h>
-#include <iterator>
 #include <assimp/postprocess.h>
+#include <iterator>
 
 namespace dx = DirectX;
 
